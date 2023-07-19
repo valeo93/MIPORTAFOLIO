@@ -1,0 +1,17 @@
+.navbar-brand
+{
+    color: rgb(93, 41, 143);
+    font-size: 20px;
+    font-family: 'Times New Roman' ;
+}
+.navbar-collapse
+{
+    background-color: rgb(190, 188, 188);
+}
+.mybar li a 
+{
+    color: rgb(14, 14, 218);
+    font-size: 20px;
+    font-family: Arial;
+}
+
